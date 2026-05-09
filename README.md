@@ -1,1 +1,3 @@
-# modelo_de_primer_parcial
+Lucas Rodriguez Simón
+Primer Parcial - Informática General 
+Artes Multimediales - UNA
